@@ -4,5 +4,8 @@ Developed an end-to-end Power BI Business Intelligence solution to analyze BMW s
 The dashboard delivers interactive, KPI-driven insights to support strategic decision-making and performance monitoring.
 
 ## About Dataset
+- 8 columns 
+- 5,779 rows 
+- The dataset includes details like Data, Year, Car Model, Quantity Sold,	Regions,	Country,	Channels, Car Images,	Country Flags, and other <a href="https://github.com/SANJNAKHATRI/BWM_Analysis-Dashboard/blob/main/BMW_Sales_Data.csv">Dataset</a>
 
 
